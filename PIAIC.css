@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+nav{
+    background: #0c4d3a;
+    height: 80px;
+    width: 100% ;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    
+
+}
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 17px;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
+a:hover{
+    color: rgb(1, 17, 1);
+    transition: .5s;
+}
+h1{
+    padding: 50px;
+    text-align: center;
+    font-size: 50px;
+}
+h2{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+p{
+    text-align: center;
+    padding: 20px;
+}
+input{
+   padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    border-color: #28611f;
+    background-color: rgb(9, 122, 79);
+    text-align: right;
+    margin-left: 700px;
+    margin-top: 20px;
+    
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    padding-right: 200px;
+    text-decoration: solid;
+    color: gray;
+}
+div{
+    height: 150px;
+    width: 50px;
+    text-align: center;
+    padding: 50px;
+    margin-bottom: 90px;
+    padding-left: 30px;
+    padding-bottom: 50px
+}
+h2{
+    font-size: 30px;
+}
+
+h4{
+    color: rgb(37, 119, 107);
+    font-size: 20px;
+}
+.side{
+    text-align: right;
+    padding: 50px;
+    margin: 20px;
+    margin-top: 0%;
+}
+piaic.css
+Displaying Home1.html.
+CSS Assignment no # 2
+Mukesh kumar
+•
+Feb 20
+10 points
+Due Feb 26, 11:59 PM
+https://www.piaic.org/
+Class comments
+Your work
+Turned in
+
+piaic.css
+Style Sheet
+
+Home1.html
+HTML
+
+piaic website page css assignment.png
+Image
+Private comments
